@@ -1,0 +1,30 @@
+D:\New folder\6.Upload\UploadVersion\obj\Debug\UploadVersion.csproj.AssemblyReference.cache
+D:\New folder\6.Upload\UploadVersion\obj\Debug\MainWindow.g.cs
+D:\New folder\6.Upload\UploadVersion\obj\Debug\App.g.cs
+D:\New folder\6.Upload\UploadVersion\obj\Debug\UploadVersion_MarkupCompile.cache
+D:\New folder\6.Upload\UploadVersion\obj\Debug\UploadVersion_MarkupCompile.lref
+D:\New folder\6.Upload\UploadVersion\bin\Debug\UploadVersion.exe.config
+D:\New folder\6.Upload\UploadVersion\bin\Debug\UploadVersion.exe
+D:\New folder\6.Upload\UploadVersion\bin\Debug\UploadVersion.pdb
+D:\New folder\6.Upload\UploadVersion\obj\Debug\MainWindow.baml
+D:\New folder\6.Upload\UploadVersion\obj\Debug\UploadVersion.g.resources
+D:\New folder\6.Upload\UploadVersion\obj\Debug\UploadVersion.Properties.Resources.resources
+D:\New folder\6.Upload\UploadVersion\obj\Debug\UploadVersion.csproj.GenerateResource.cache
+D:\New folder\6.Upload\UploadVersion\obj\Debug\UploadVersion.csproj.CoreCompileInputs.cache
+D:\New folder\6.Upload\UploadVersion\obj\Debug\UploadVersion.exe
+D:\New folder\6.Upload\UploadVersion\obj\Debug\UploadVersion.pdb
+D:\C#\6.Upload\UploadVersion\bin\Debug\UploadVersion.exe.config
+D:\C#\6.Upload\UploadVersion\bin\Debug\UploadVersion.exe
+D:\C#\6.Upload\UploadVersion\bin\Debug\UploadVersion.pdb
+D:\C#\6.Upload\UploadVersion\obj\Debug\UploadVersion.csproj.AssemblyReference.cache
+D:\C#\6.Upload\UploadVersion\obj\Debug\MainWindow.g.cs
+D:\C#\6.Upload\UploadVersion\obj\Debug\App.g.cs
+D:\C#\6.Upload\UploadVersion\obj\Debug\UploadVersion_MarkupCompile.cache
+D:\C#\6.Upload\UploadVersion\obj\Debug\UploadVersion_MarkupCompile.lref
+D:\C#\6.Upload\UploadVersion\obj\Debug\MainWindow.baml
+D:\C#\6.Upload\UploadVersion\obj\Debug\UploadVersion.g.resources
+D:\C#\6.Upload\UploadVersion\obj\Debug\UploadVersion.Properties.Resources.resources
+D:\C#\6.Upload\UploadVersion\obj\Debug\UploadVersion.csproj.GenerateResource.cache
+D:\C#\6.Upload\UploadVersion\obj\Debug\UploadVersion.csproj.CoreCompileInputs.cache
+D:\C#\6.Upload\UploadVersion\obj\Debug\UploadVersion.exe
+D:\C#\6.Upload\UploadVersion\obj\Debug\UploadVersion.pdb
